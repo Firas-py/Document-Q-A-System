@@ -3,7 +3,7 @@
 
 AI-powered question answering for your web documents with source attribution.
 
-🌐 LIVE DEMO: https://document-ap-system.streamlit.app
+🌐 LIVE DEMO: https://document-q-a-system.streamlit.app
 
 🚀 QUICK START
 --------------
